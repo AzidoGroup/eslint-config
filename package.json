@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-azido",
+  "version": "1.0.0",
+  "description": "Azido Group ESLint Rules and Standards",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzidoGroup/eslint-config-azido.git"
+  },
+  "keywords": [
+    "azido",
+    "azido-eslint",
+    "azido-eslint-config",
+    "eslint",
+    "eslint-config",
+    "eslint-config-azido"
+  ],
+  "author": "Azido Development Team <dev@azido.io>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AzidoGroup/eslint-config-azido/issues"
+  },
+  "homepage": "https://github.com/AzidoGroup/eslint-config-azido#readme",
+  "dependencies": {
+    "eslint": "4.x"
+  }
+}
