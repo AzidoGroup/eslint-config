@@ -16,7 +16,7 @@ rm ~/.eslintrc
 Add a new `dev` dependency to your project:
 
 ```bash
-npm install --save-dev git+ssh://git@github.com/AzidoGroup/eslint-config-azido.git
+npm install --save-dev eslint-config-azido
 ```
 
 In the project root directory, create an empty file called `.eslintrc.json`:
