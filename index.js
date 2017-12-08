@@ -1,4 +1,6 @@
-{
+'use strict';
+
+module.exports = {
 	"env": {
 		"browser": false,
 		"es6": true,
