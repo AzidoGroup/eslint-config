@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-azido",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Azido Group ESLint Rules and Standards",
   "main": "index.js",
   "repository": {
